@@ -6,6 +6,8 @@
 Dec 9 23:46:48 dlserve sshd[1310]: Failed publickey for root from 192.168.178.58 port 51304 ssh2: RSA SHA256:QjWehkVjDMN4OcaZE7QV5/dVaJw9M4mPI8++JP+15KI
 ```
 
+The important part here is the user should equal root
+
 ## thread
 
 -   we do not want anyone to login to root since they would have full access

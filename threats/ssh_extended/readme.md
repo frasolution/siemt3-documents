@@ -18,3 +18,7 @@
 ## unknown user
 
 -   if user does not exist
+
+## unwanted ip addresses
+
+-   lets assume we want users to login only via vpn or the local network, so a user trying or succeding to login from the outside is a bad omen
