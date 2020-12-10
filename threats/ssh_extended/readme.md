@@ -15,8 +15,6 @@
 
 -   if someone atempts to login with an SSH key that was generated with the wrong methos this could be an outside thread
 
-## unexisting user
+## unknown user
 
 -   if user does not exist
-
-Dec 9 22:01:56 dlserve sshd[1138]: Disconnecting invalid user hans 192.168.178.58 port 49638: Too many authentication failures [preauth]
