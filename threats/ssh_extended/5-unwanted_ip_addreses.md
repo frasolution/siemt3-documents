@@ -13,3 +13,12 @@ The important part is the from ${ip} port ${port}
 -   user does not follow or guidelines -> leading to a possibly insecure network -> low to medium suverity
 -   external unwanted thrid party might be trying to access our network -> medium to high priority
     => these threads should be making considerable noise (alarm an admin) if they happen multiple times especially type 2, since type 1 might just be a user forgetting to use a vpn
+
+## Data to log
+    - ip => we want to see from where the user logs in
+    - hostname => we wanna see which system they access
+    - username => we wanna see which user does violate policy (possibly check for breach)
+
+## threshold
+    - yellow : each event
+    - red : 1 per minute

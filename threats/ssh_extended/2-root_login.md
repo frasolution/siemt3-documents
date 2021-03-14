@@ -17,3 +17,10 @@ The important part here is the user should equal root
 ## suverity
 
 I'd say this is a low to medium priority event that will be leading nowhere since we have this deactivated anyway.
+
+## Data to log
+    - ip address => track each single offense (possibly offers a way to trace back login attempts)
+
+## threshold
+    - green = each event
+    - yellow = 1 per minute

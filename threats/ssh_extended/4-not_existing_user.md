@@ -18,3 +18,10 @@ The important part here is invalid user ${user}
 ## suverity
 
 low til medium except a certain threshold has been reached or an abnormal limit has been reached.
+
+## Data to log
+    - username => check if user does exist but does not have ssh privilages
+
+## threshold
+    - yellow = each event
+    - red = 1 per minute => typos are rare and ssh clients are common

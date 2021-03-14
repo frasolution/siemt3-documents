@@ -16,3 +16,9 @@ The important part is the ssh2: ${algo}:${fingerprint}
 ## suverity
 
 The Suverity of this is a medium since either way this indicates a problem with our network
+
+## Data to log
+    - username => we see which user we should notify to update their setup
+
+## threshold
+    - green = each event
