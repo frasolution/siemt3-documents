@@ -21,6 +21,7 @@ low til medium except a certain threshold has been reached or an abnormal limit 
 
 ## Data to log
     - username => check if user does exist but does not have ssh privilages
+    - ip => admins may need to collect infos on attackers
 
 ## threshold
     - yellow = each event

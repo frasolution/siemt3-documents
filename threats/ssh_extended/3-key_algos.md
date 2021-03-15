@@ -19,6 +19,8 @@ The Suverity of this is a medium since either way this indicates a problem with 
 
 ## Data to log
     - username => we see which user we should notify to update their setup
+    - algo used => admins can deduct the age of the key or the degree to which the key is out of date
+    - fingerprint => admins maybe want to deactivate key
 
 ## threshold
     - green = each event
