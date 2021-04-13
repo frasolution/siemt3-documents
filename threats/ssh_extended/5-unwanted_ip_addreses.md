@@ -1,4 +1,4 @@
-# unwanted ip addresses (range)
+# SSH_Ip [unwanted ip addresses (range)]
 
 ## log
 

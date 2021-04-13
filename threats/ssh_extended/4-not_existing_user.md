@@ -1,4 +1,4 @@
-# unkown users
+# SSH_User
 
 ## log
 
@@ -24,5 +24,5 @@ low til medium except a certain threshold has been reached or an abnormal limit 
     - ip => admins may need to collect infos on attackers
 
 ## threshold
-    - yellow = each event
-    - red = 1 per minute => typos are rare and ssh clients are common
+    - green = each event
+    - yellow = 1 per minute => typos are rare and ssh clients are common

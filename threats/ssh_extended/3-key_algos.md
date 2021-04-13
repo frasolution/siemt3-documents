@@ -1,4 +1,4 @@
-# key algorithms
+# SSH_Algorithm
 
 ## log
 
