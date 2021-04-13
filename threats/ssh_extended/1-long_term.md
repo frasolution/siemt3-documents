@@ -1,14 +1,6 @@
 # long term
 
-# log
-
-"invalid key"
-
-```
-Dec 10 00:00:46 dlserve sshd[1434]: Connection closed by authenticating user pi 192.168.178.58 port 51401 [preauth]
-```
-
-I have not defined the lot to it's fullest but the connnection closed by authenticating user ${user} ${ip} port ${port} [preauth]
+#log 
 
 "wrong passwords"
 
