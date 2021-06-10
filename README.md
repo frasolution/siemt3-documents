@@ -2,6 +2,7 @@
 
 Dieser Ordner beinhaltet
 
--   Die Doku
 -   Die Zwischen dokumente
     -   Threads
+-   Prelude
+    -> aufgabe erste zwei wochen
